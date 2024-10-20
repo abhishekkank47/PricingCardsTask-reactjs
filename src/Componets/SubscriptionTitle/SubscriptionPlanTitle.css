@@ -1,0 +1,36 @@
+.subscriptionPlanTitleContainer {
+  display: flex;
+  color: #111928;
+  background-color: #e1effe;
+  height: 59.64px;
+  width: 196.34px;
+  padding: 4px 16px 4px 4px;
+  gap: 9.61px;
+  border-radius: 9.61px;
+  font-family: Inter;
+  font-size: 17.09px;
+  font-weight: 500;
+  line-height: 25.64px;
+}
+
+.monthlyPlanBtn {
+  background-color: white;
+  width: 109.73px;
+  height: 51.64px;
+  justify-content: center;
+  align-items: center;
+  padding: 3px 5px;
+  border: none;
+  border-radius: 8.58px;
+  font-size: 17.09px;
+  line-height: 25.64px;
+}
+
+.annualPlan {
+  height: 51.64px;
+  padding: 3px 5px;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

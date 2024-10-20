@@ -1,0 +1,84 @@
+[
+  {
+    "tag": null,
+    "title": "Trial",
+    "pricingHeading": {
+      "plan": "Try now",
+      "additionalInfo": "Get personalised template"
+    },
+    "lists1": [
+      "25+ data sources",
+      "GPT4, Linkedin and others",
+      "Access to slack community",
+      "10+ templates to scale your outbound"
+    ],
+    "lists2": ["Explore product capabilities"],
+    "button": "Try Now"
+  },
+  {
+    "tag": null,
+    "title": "Growth",
+    "pricingHeading": {
+      "plan": "$229",
+      "additionalInfo": "50% off $̶4̶5̶9̶"
+    },
+    "lists1": [
+      "8,000 Credits",
+      "Webhook, HTTP API",
+      "Credit rollover (upto 2x plan credits)",
+      "Outbound email integrations like Instantly, Smartlead.",
+      "Dedicated 3 hours from Bitscale expert"
+    ],
+    "lists2": [
+      "Unlimited leads search",
+      "Fully enriched 5000 leads",
+      "Personalized outreach at scale"
+    ],
+    "button": "Continue with Growth"
+  },
+  {
+    "tag": "Popular",
+    "title": "Booster",
+    "pricingHeading": {
+      "plan": "$499",
+      "additionalInfo": "50% off $̶9̶9̶9̶"
+    },
+    "lists1": [
+      "25,000 Credits",
+      "Webhook, HTTP API",
+      "Credit rollover (upto 2x plan credits)",
+      "Outbound email integrations like Instantly, Smartlead.",
+      "Dedicated 3 hours from Bitscale expert",
+      "Advanced models like Claude Sonnet",
+      "Dedicated 8 hours from Bitscale expert",
+      "2 way Hubspot integration"
+    ],
+    "lists2": [
+      "Unlimited leads search",
+      "Fully enriched 5000 leads",
+      "Personalized outreach at scale"
+    ],
+    "button": "Continue with Booster"
+  },
+  {
+    "tag": null,
+    "title": "Enterprise",
+    "pricingHeading": {
+      "plan": "Contact",
+      "additionalInfo": "For individual pricing"
+    },
+    "lists1": [
+      "Data privacy Certification",
+      "Priority Support",
+      "Dedicated Bitscale expert",
+      "Private Stack Channel",
+      "Dedicated 3 hours from Bitscale expert",
+      "Collaborative workspace and templates"
+    ],
+    "lists2": [
+      "Perfect for High-Volume End-to-End CRM Data Enrichment",
+      "Unlimited list of leads with unlimited data points"
+    ],
+    "button": "Try Now"
+  }
+]

@@ -1,0 +1,123 @@
+.cardsContainer {
+  display: flex;
+  width: 1180px;
+  height: 836.77px;
+  padding: 0px 0px 24px 0px;
+  margin-top: 30px;
+  gap: 20px;
+}
+
+.card {
+  width: 280px;
+  height: 812.77px;
+  padding: 24px;
+  border-radius: 7.13px;
+  border: 0.89px solid #e5e7eb;
+  box-shadow: 0px 1.78px 3.56px -1.78px #0000000d;
+  box-shadow: 0px 3.56px 5.35px -0.89px #0000001a;
+}
+
+/* header */
+
+.cardTitle {
+  width: 285.08px;
+  height: 27px;
+  gap: 14.25px;
+}
+
+
+.priceingHeading {
+  width: 232px;
+  height: 50px;
+  gap: 6.16px;
+}
+
+.priceingHeadingText {
+  width: 147px;
+  height: 37px;
+  font-size: 36.99px;
+  font-weight: 800;
+  line-height: 36.99px;
+  text-align: left;
+}
+
+.additionalInfo {
+  width: 221.93px;
+  height: 18.49px;
+  font-size: 12.33px;
+  font-weight: 400;
+  line-height: 18.49px;
+  color: #6b7280;
+}
+
+/* content */
+
+.content {
+  width: 232px;
+  height: 764.77px;
+  gap: 24.94px;
+  position: relative;
+}
+
+.heading {
+  width: 232px;
+  height: 105px;
+  margin-bottom: 15px;
+}
+
+.featuresList {
+  width: 232px;
+  height: 412px;
+  list-style-type: none;
+}
+
+.featureListItem {
+  display: flex;
+  align-items: center;
+  width: 232px;
+  height: 21px;
+  padding: 24px 0px 24px 0px;
+  margin-bottom: 0px;
+}
+
+.featureItemtxt {
+  display: flex;
+  justify-content: center;
+  color: #6b7280;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+}
+
+.horizontalLine {
+  width: 232px;
+  margin: 14.25px 0 14.25px 0;
+  border: 1px solid #76a9fa;
+}
+
+.featuresList2 {
+  width: 232px;
+  height: 115px;
+}
+
+
+/* Button */
+
+.cardBtn {
+  width: 232px;
+  padding: 10px 0px 10px 0px;
+  gap: 2px;
+  border: none;
+  border-radius: 7.12px;
+  position: absolute;
+  bottom: 0;
+}
+
+.btnText {
+  background-color: transparent;
+  width: 50px;
+  height: 19px;
+  font-size: 12.47px;
+  line-height: 18.71px;
+}
